@@ -77,7 +77,7 @@ e podendo ser evocado com o atalho global (Alt + P).
 
 ## ✉️ Contato
 
-- **LinkedIn:** [Fábio B. Araújo](https://br.linkedin.com/in/fabio-b-araujo)  
+- **LinkedIn:** [Fabio B. Araújo](https://br.linkedin.com/in/fabio-b-araujo)  
 - **E‑mail:** [fabio.b.araujo.contato@gmail.com](fabio.b.araujo.contato@gmail.com)
 - **GitHub:** [O-Ampris](https://github.com/O-Ampris)  
 
