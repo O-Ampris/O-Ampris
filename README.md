@@ -61,7 +61,7 @@ utilizando containers Docker para acomodar os componentes da aplicação facilit
 o conceito de backend zero-knowledge e encriptação de ponta-a-ponta para garantir a maior segurança possível aos usuários do sistema.
 
 ### Gerenciador de desktop e produtividade (Managerz)
-Stack aderida: Go (Backend), Wails (Frontend), capacidade de realizar comandos no computador, trocar facilmente de abas 
+Stack aderida: Rust (Backend), React.js (Frontend), Framework Tauri, capacidade de realizar comandos no computador, trocar facilmente de abas 
 e pesquisar arquivos, o sistema é bem simples, se mantendo escondido na máquina, podendo ser consultado no system tray 
 e podendo ser evocado com o atalho global (Alt + P).
 
