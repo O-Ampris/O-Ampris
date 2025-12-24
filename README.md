@@ -5,9 +5,9 @@
 
 ## Sobre mim
 
-Sou Desenvolvedor Fullstack com formação técnica em Biotecnologia, realizando graduação técnica pela UNOPAR (Universidade Norte do Paraná) e atualmente trabalhando na empresa PLSS Soluções. Gosto muito de programar, acho que isso é meio bobo de afirma em um github, mas creio que devesse salientar. Estou sempre em busca de novos aprendizados e projetos que desafiem minhas habilidades.
+Sou Desenvolvedor Fullstack, realizando graduação técnica pela UNOPAR (Universidade Norte do Paraná) e atualmente trabalhando na empresa PLSS Soluções. Gosto muito de programar, creio que devesse salientar isso mesmo nesse ambiente. Estou sempre em busca de novos aprendizados e projetos pessoais que desafiam meus entendimentos no mundo da tecnologia.
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 - **Frontend:** JavaScript, React, HTML, CSS
 - **Backend:** Node.js, Express, Gin, Go, Python, REST APIs  
@@ -38,7 +38,7 @@ escalabilidade e usabilidade.
   também feito configurações em antenas MikroTik e Ubiquiti, além de configurações em roteadores dos clientes em questão,
   além de auxílio operacional, como geração de Ordem de Serviço, movimentação de estoque e gerenciamento financeiro parcial.
 
-## 🧠 Projetos em destaque
+## Projetos públicos em destaque
 
 ### [Funnet](https://funnet.com.br/)  
 Breve descrição: Projeto realizado para a empresa Funnet, feito em PHP puro no backend, hospedado no CPanel, o site é uma 
@@ -50,22 +50,7 @@ Breve descrição: Site desenvolvido para o Sindicato dos Trabalhadores da cidad
 ele conta com um painel de administração além do formulário, em que se pode administrar os novos ingressantes ao sindicato que querem aderir 
 para além disso com um campo de assinatura digital, que facilita e ajuda na parte mais administrativa do site, como um todo.
 
-## 🛠️ Projetos em desenvolvimento
-
-Os projetos descritos aqui, ainda estão privados e em desenvolvimento em meu github, mas caso haja alguma dúvida ou curiosidade, 
-tenho o tempo necessário para explicar e contar sobre eles, espero poder deixa-los público quanto antes!
-
-### Compartilhador de senhas (Keyshare)
-Stack aderida: Go (Backend), React.js (Frontend), PostgreSQL (Banco de dados), Tilt (Deploy completo), Docker compose (Deploy parcial) e 
-utilizando containers Docker para acomodar os componentes da aplicação facilitando integração, teste e manutenção, utilizando 
-o conceito de backend zero-knowledge e encriptação de ponta-a-ponta para garantir a maior segurança possível aos usuários do sistema.
-
-### Gerenciador de desktop e produtividade (Managerz)
-Stack aderida: Rust (Backend), React.js (Frontend), Framework Tauri, capacidade de realizar comandos no computador, trocar facilmente de abas 
-e pesquisar arquivos, o sistema é bem simples, se mantendo escondido na máquina, podendo ser consultado no system tray 
-e podendo ser evocado com o atalho global (Alt + P).
-
-## 📚 Formação Acadêmica
+## Formação Acadêmica
 
 **UNOPAR – Universidade Norte do Paraná** 
 - Análise e desenvolvimento de sistemas
