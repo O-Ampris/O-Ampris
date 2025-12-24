@@ -9,10 +9,10 @@ Sou Desenvolvedor Fullstack, realizando graduação técnica pela UNOPAR (Univer
 
 ## Tecnologias & Ferramentas
 
-- **Frontend:** JavaScript, React, HTML, CSS
-- **Backend:** Node.js, Express, Gin, Go, Python, REST APIs  
-- **Banco de dados:** SQL, NoSQL, MySQL, PostgreSQL, MongoDB  
-- **Infraestrutura:** Docker, Kubernetes, Tilt (k8s orquestrador), Git, CI/CD, GitHub  
+- **Frontend:** JavaScript, Vue, React, HTML, CSS
+- **Backend:** Node.js, Go, Python, PHP, Nuxt.js, REST APIs  
+- **Banco de dados:** SQL, NoSQL, MySQL, PostgreSQL, MongoDB e SQLite
+- **Infraestrutura:** Docker, Kubernetes, Tilt (k8s orquestrador), Git, CI/CD, GitHub
 - **Outras habilidades:** Lógica de programação, testes automatizados, controle de versão
 
 ## Experiência Profissional
