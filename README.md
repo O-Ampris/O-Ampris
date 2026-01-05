@@ -1,71 +1,64 @@
-# Olá, eu sou o Fábio Araújo (Ampris!) 👋
+<h2 align="left">Olá 👋! Eu sou o Ampris e eu sou um desenvolvedor Fullstack</h2>
 
-> **Desenvolvedor Fullstack**  
-> Morando em Ponta Grossa, PR – Brasil
+###
 
-## Sobre mim
+<img align="right" height="150" src="https://github.com/o-ampris.png"  />
 
-Sou Desenvolvedor Fullstack, realizando graduação técnica pela UNOPAR (Universidade Norte do Paraná) e atualmente trabalhando na empresa PLSS Soluções. Gosto muito de programar, creio que devesse salientar isso mesmo nesse ambiente. Estou sempre em busca de novos aprendizados e projetos pessoais que desafiam meus entendimentos no mundo da tecnologia.
+###
 
-## Tecnologias & Ferramentas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-- **Frontend:** JavaScript, Vue, React, HTML, CSS
-- **Backend:** Node.js, Go, Python, PHP, Nuxt.js, REST APIs  
-- **Banco de dados:** SQL, NoSQL, MySQL, PostgreSQL, MongoDB e SQLite
-- **Infraestrutura:** Docker, Kubernetes, Tilt (k8s orquestrador), Git, CI/CD, GitHub
-- **Outras habilidades:** Lógica de programação, testes automatizados, controle de versão
+###
 
-## Experiência Profissional
+<div align="left">
+  <a href="fabio.b.araujo.contato@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/fabio-b-araujo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### PLSS Soluções  
-* **Desenvolvedor Júnior Fullstack**
-  - Fev. 2025 - Presente
-  - Desenvolvimento de aplicações completas (frontend + backend), incluindo automações com scripts e ferramentas low-code,
-deploy de aplicações em nuvem, e self-hosted, utilizando Docker e k8s, Colaboração em projetos multifuncionais com foco em desempenho,
-escalabilidade e usabilidade.
+###
 
-### Prefeitura Municipal de Jaguariaíva
-* **Estagiário em T.I.**
-  - Jun. 2024 - Out. 2024
-  - Desenvolvimento de aplicações completas (frontend + backend), realizando suporte técnico em software e hardware na empresa,
-  também feito a manutenção de software e hardware, como formatação e troca de peças de computadores como um exemplo, das
-  atividades realizadas no estabelecimento.
+<br clear="both">
 
-### Funnet
-* **Helpdek Junior**
-  - Dez. 2023 - Jun. 2024
-  - Desenvolvimento de um site repaginando o visual da empresa, realizando suporte técnico em redes, para os clientes,
-  também feito configurações em antenas MikroTik e Ubiquiti, além de configurações em roteadores dos clientes em questão,
-  além de auxílio operacional, como geração de Ordem de Serviço, movimentação de estoque e gerenciamento financeiro parcial.
+<img src="https://raw.githubusercontent.com/o-ampris/o-ampris/output/snake.svg" alt="Snake animation" />
 
-## Projetos públicos em destaque
-
-### [Funnet](https://funnet.com.br/)  
-Breve descrição: Projeto realizado para a empresa Funnet, feito em PHP puro no backend, hospedado no CPanel, o site é uma 
-landing page que engloba apresentação de planos, parceiros, localização e informações gerais sobre a empresa e seu modus operandi. 
-O site também conta com uma área de clientes que consome dados do servidor interno da empresa.
-
-### [Formulário de Registro - Sindiserv](https://sindiservjaguariaiva.com.br/)  
-Breve descrição: Site desenvolvido para o Sindicato dos Trabalhadores da cidade de Jaguariaíva, também utilizando PHP como força motriz do app, 
-ele conta com um painel de administração além do formulário, em que se pode administrar os novos ingressantes ao sindicato que querem aderir 
-para além disso com um campo de assinatura digital, que facilita e ajuda na parte mais administrativa do site, como um todo.
-
-## Formação Acadêmica
-
-**UNOPAR – Universidade Norte do Paraná** 
-- Análise e desenvolvimento de sistemas
-- Jul. 2024 - Presente
-
-**Instituto Federal do Paraná - Câmpus Jaguariaíva**
-- Técnico em Biotecnologia
-- Jan. 2019 - Dez. 2022
-
-## ✉️ Contato
-
-- **LinkedIn:** [Fabio B. Araújo](https://br.linkedin.com/in/fabio-b-araujo)  
-- **E‑mail:** [fabio.b.araujo.contato@gmail.com](fabio.b.araujo.contato@gmail.com)
-- **GitHub:** [O-Ampris](https://github.com/O-Ampris)  
-
----
-
-✨ Obrigado por visitar meu perfil no GitHub! Sinta-se à vontade para explorar meus projetos e sugestões de colaborações.  
+###
